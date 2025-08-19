@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#cabecalho{
+    height: 15vh;
+    width: 100vw;
+}
+
+.corPreto{
+    background-image: linear-gradient(to right top, #c8e7f4, #a4d5eb, #7fc3e4, #55b1dd, #009fd6)!important;
+}
+
+.corPreto a{
+    color: white;
+}
+
+.corPreto a:hover{
+    color: rgb(0, 204, 255);
+}
+
+.corPreto a:active{
+    color: rgb(0, 0, 0);
+}
+
+body{
+    overflow: hidden;
+}
+
+
+#pagina1{
+    width: 100vw;
+    height: auto;
+    /*display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex: 1;*/
+
+}
