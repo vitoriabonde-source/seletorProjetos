@@ -9,7 +9,7 @@
 }
 
 .corPreto{
-    background-image: linear-gradient(to right top, #c8e7f4, #a4d5eb, #7fc3e4, #55b1dd, #009fd6)!important;
+    background-image: linear-gradient(to right, #b4ebff, #5fceff, #00aeff, #0088ff, #0059ff)!important;
 }
 
 .corPreto a{
@@ -17,11 +17,11 @@
 }
 
 .corPreto a:hover{
-    color: rgb(0, 204, 255);
+    color: rgb(118, 228, 255);
 }
 
-.corPreto a:active{
-    color: rgb(0, 0, 0);
+.corPreto a:focus{
+    color: #0d5b80;
 }
 
 body{
